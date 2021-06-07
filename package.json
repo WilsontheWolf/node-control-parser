@@ -1,0 +1,9 @@
+{
+  "name": "control-parser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "WilsontheWolf",
+  "license": "MIT",
+  "repository": "https://github.com/WilsontheWolf/node-control-parser",
+  "description": "A dependency-less node module to parse debian control files."
+}
